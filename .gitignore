@@ -6,3 +6,6 @@ node_modules
 
 # ignore build folder
 build
+
+# ignore sublime folder
+.DS_Store
